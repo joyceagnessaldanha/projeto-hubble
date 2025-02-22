@@ -131,6 +131,11 @@ main div.video > iframe {
     height: 300px;
 }
 
+main > span.decorado {
+    color: #559BD9;
+    background-color: #b8daef
+}
+
 aside {
     background-color: #b8daef;
     border-radius: 10px;
